@@ -4,10 +4,11 @@
 	- 支持嗅探播放，配置同TVbox(parse=1)
 
 ## 待实现功能(空闲时间看心情开发 (#^.^#))
-	- 播放历史记录
-	- 新增播放器切换
+	✅ 播放历史记录
+	✅ 新增播放器切换
+	✅ 音乐
 	- 磁力播发
-	- 整合漫画、音乐、小说功能
+	- 整合漫画、小说功能
 
 ## 下载链接地址：<a href="https://github.com/LuckySe7ens/tvbox_config/releases">releases</a>
 ### t1 & t4配置 [https://d.kstore.dev/download/8943/nodejs/api.json](https://d.kstore.dev/download/8943/nodejs/api.json)
